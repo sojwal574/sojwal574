@@ -107,6 +107,7 @@
 </table>
 
 
-![snake gif](https://raw.githubusercontent.com/sojwal574/sojwal574/output/snake.svg)
+![Snake animation](https://github.com/sojwal574/sojwal574/blob/output/snake.svg)
+
 
 
