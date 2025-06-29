@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=sojwal574)
+
 <h1 align="center">Hi 👋, I'm Sojwal Vilhekar</h1>
 <h3 align="center">A passionate Full Stack developer and Competitive Programmer from India</h3>
 
